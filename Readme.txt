@@ -1,0 +1,1 @@
+This is a Blackjack game made for a course about programming in computer networks back at the University. It consisted of a client and two servers. We used sockets within threads to create a client-server paradigm and communicate the client with the server and also both servers between them.  
